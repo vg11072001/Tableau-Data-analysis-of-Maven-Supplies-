@@ -16,3 +16,8 @@ Shape: 4248x24
 
 
 ### 2 Visualization and Analysis
+
+#### Part 2 - 
+
+![image](https://user-images.githubusercontent.com/67424390/180348697-6e477ce0-3514-4432-bd29-689ae383f064.png)
+
