@@ -2,7 +2,7 @@
 
 Used Tableau to: Access and explore the Data of “Maven Supplies” to track KPIs (sales, profit, units, returns), compare performance across markets, analyze category profitability, and identify high-value customers.
 
-### Dataset
+### 1 Dataset
 
 ##### Dataset 1 - Coffee Chain
 Shape: 4248x24
@@ -15,4 +15,4 @@ Shape: 4248x24
 ![image](https://user-images.githubusercontent.com/67424390/180348318-a64202c7-667f-4887-a64b-8cda76c1b66d.png)
 
 
-### Visualization and Analysis
+### 2 Visualization and Analysis
